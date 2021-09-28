@@ -5,3 +5,6 @@
 <p>CSS3</p>
 <p>JavaScript</p>
 </ul>
+<hr>
+
+<img src="" alt="">
