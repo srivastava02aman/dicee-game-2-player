@@ -1,6 +1,6 @@
 # dicee-game-2-player
-<h1>Technology Used.</h1>
 <hr>
+<h1>Technology Used.</h1>
 <ul>
 <p>HTML5</p>
 <p>CSS3</p>
