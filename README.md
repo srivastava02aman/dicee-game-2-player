@@ -1,6 +1,6 @@
-# Dice-Game-2-player
+# Dice-Game
 <hr>
-<h1>Technology Used.</h1>
+<h3>Technology Used.</h3>
 <ul>
 <p>HTML5</p>
 <p>CSS3</p>
