@@ -1,4 +1,4 @@
-# Dicee-game-2-player
+# Dice-Game-2-player
 <hr>
 <h1>Technology Used.</h1>
 <ul>
