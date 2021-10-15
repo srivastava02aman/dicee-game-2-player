@@ -6,5 +6,3 @@
 <p>CSS3</p>
 <p>JavaScript</p>
 </ul>
-
-<img src="" alt="">
